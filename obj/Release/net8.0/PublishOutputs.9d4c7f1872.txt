@@ -1,0 +1,11 @@
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\sampleAPP.exe
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\sampleAPP.dll
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\sampleAPP.deps.json
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\sampleAPP.runtimeconfig.json
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\sampleAPP.pdb
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web-dotnet\sampleAPP\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
